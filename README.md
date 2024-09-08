@@ -1,2 +1,2 @@
-# chaulagain//
-This is Aashish Chaulagain.//
+# chaulagain
+This is Aashish Chaulagain.
